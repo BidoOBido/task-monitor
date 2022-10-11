@@ -82,7 +82,7 @@
         "kind": "interval",
         "time": 60,
         "start": "09:00",
-        "end": "19:55"
+        "end": "09:55"
       }
     ],
     "configuration": {
